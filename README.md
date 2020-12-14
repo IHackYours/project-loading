@@ -11,7 +11,7 @@
 <a href="#"><img title="No Open Source" src="https://img.shields.io/badge/No Open Source-✍️-green?style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-10.0-green.svg?style=flat-square"></a>
+<a href="#"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
 <a href="https://github.com/IHackYours/followers"><img title="Followers" src="https://img.shields.io/github/followers/IHackYours?color=blue&style=flat-square"></a>
 <a href="https://github.com/IHackYours/project-loading/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/IHackYours/project-loading?color=red&style=flat-square"></a>
 <a href="https://github.com/IHackYours/project-loading/network/members"><img title="Forks" src="https://img.shields.io/github/forks/IHackYours/project-loading?color=red&style=flat-square"></a>
