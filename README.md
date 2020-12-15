@@ -8,7 +8,7 @@
 <h1 align="center">Please Follow🗣️</h1>
 <p align="center">
 <a href="https://github.com/IHackYours"><img title="Author" src="https://img.shields.io/badge/Author-IHACK--YOURS-red.svg?style=for-the-badge&logo=github"></a>
-<a href="#"><img title="No Open Source" src="https://img.shields.io/badge/No Open Source-✍️-green?style=for-the-badge"></a>
+<a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open Source-✍️-green?style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="#"><img title="Version" src="https://img.shields.io/badge/Version-1.0-green.svg?style=flat-square"></a>
